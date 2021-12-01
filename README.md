@@ -1,2 +1,2 @@
 # djangoStock
-website to hit an api and return stock information.
+This is a basic website to hit an api and return stock information using Django.
